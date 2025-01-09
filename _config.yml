@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Baptiste Rabecq Professional page"
+title                    : "Baptiste Rabecq"
 title_separator          : "-"
 name                     : &name "Baptiste Rabecq"
 description              : &description "PhD student at the ORC, MIT"
